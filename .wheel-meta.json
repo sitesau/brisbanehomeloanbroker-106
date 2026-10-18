@@ -1,0 +1,22 @@
+{
+  "wheel_id": 402,
+  "structure": "umbrella",
+  "slug": "brisbanehomeloanbroker-106",
+  "project": "home-loan-brokers-brisbane-first-home-f0bacde0c4e3ef60f25504e13",
+  "parent_t1_ref": "brisbanehomeloanbroker-153",
+  "node_role": "feeder",
+  "money_target": "brisbanehomeloanbroker.com.au",
+  "primary_kw": "home loan brokers brisbane first home",
+  "intended_url": "http://home-loan-brokers-brisbane-first-home-f0bacde0c4e3ef60f25504e13.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "20f27872eef694c9",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/brisbanehomeloanbroker-153/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
